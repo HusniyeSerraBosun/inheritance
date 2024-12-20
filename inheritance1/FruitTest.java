@@ -5,7 +5,7 @@ public class FruitTest extends Fruit{
 	@Override
 	public void fruitColor() {
 		super.fruitColor();
-		System.out.println("\nAlso I like strawberry :D");
+		System.out.println("Also I like strawberry :D");
 	}
 	public static void main(String[] args) {
 		FruitTest fruit=new FruitTest();
